@@ -1,0 +1,45 @@
+ANN with Breast Cancer Dataset (No Clustering/DR)
+
+Optimal Hidden Layers: [16]
+Training Accuracy: 0.9010989010989011
+Cross Validation Accuracy: 0.931868131868132
+Testing Accuracy: 0.9122807017543859
+Total Time Taken: 0:00:06.289287
+
+
+ANN with Breast Cancer Dataset - DT 
+
+Optimal Hidden Layers: [16, 16, 16, 16, 16, 16, 16, 16, 16]
+Training Accuracy: 0.9274725274725275
+Cross Validation Accuracy: 0.9274725274725276
+Testing Accuracy: 0.956140350877193
+Total Time Taken: 0:00:04.601505
+
+
+ANN with Breast Cancer Dataset - PCA/EM (3 principal components, 2 clusters)
+
+Optimal Hidden Layers: [16, 16]
+Training Accuracy: 0.9362637362637363
+Cross Validation Accuracy: 0.9186813186813189
+Testing Accuracy: 0.956140350877193
+Total Time Taken: 0:00:06.293289
+
+
+ANN with Breast Cancer Dataset - ICA/EM (17 independent components, 2 clusters)
+
+Optimal Hidden Layers: [16, 16]
+Training Accuracy: 0.9714285714285714
+Cross Validation Accuracy: 0.9626373626373627
+Testing Accuracy: 0.9736842105263158
+Total Time Taken: 0:00:10.347520
+
+
+ANN with Breast Cancer Dataset - RP/EM (11 random projections, 2 clusters)
+
+Optimal Hidden Layers: [16, 16]
+Training Accuracy: 0.8747252747252747
+Cross Validation Accuracy: 0.8813186813186812
+Testing Accuracy: 0.8508771929824561
+Total Time Taken: 0:00:04.034025
+
+

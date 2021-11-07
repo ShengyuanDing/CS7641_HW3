@@ -1,0 +1,261 @@
+ANN with Breast Cancer Dataset - ICA (1 independent components)
+
+Optimal Hidden Layers: [16, 16]
+Training Accuracy: 0.8175824175824176
+Cross Validation Accuracy: 0.90989010989011
+Testing Accuracy: 0.8508771929824561
+Total Time Taken: 0:00:05.775332
+
+
+ANN with Breast Cancer Dataset - ICA (2 independent components)
+
+Optimal Hidden Layers: [16, 16]
+Training Accuracy: 0.9032967032967033
+Cross Validation Accuracy: 0.9164835164835167
+Testing Accuracy: 0.9035087719298246
+Total Time Taken: 0:00:06.860564
+
+
+ANN with Breast Cancer Dataset - ICA (3 independent components)
+
+Optimal Hidden Layers: [16, 16, 16, 16, 16, 16, 16, 16, 16]
+Training Accuracy: 0.9252747252747253
+Cross Validation Accuracy: 0.9230769230769232
+Testing Accuracy: 0.9210526315789473
+Total Time Taken: 0:00:07.369068
+
+
+ANN with Breast Cancer Dataset - ICA (4 independent components)
+
+Optimal Hidden Layers: [16, 16, 16, 16, 16, 16, 16, 16]
+Training Accuracy: 0.9428571428571428
+Cross Validation Accuracy: 0.9472527472527473
+Testing Accuracy: 0.9649122807017544
+Total Time Taken: 0:00:07.230416
+
+
+ANN with Breast Cancer Dataset - ICA (5 independent components)
+
+Optimal Hidden Layers: [16, 16, 16]
+Training Accuracy: 0.945054945054945
+Cross Validation Accuracy: 0.9494505494505495
+Testing Accuracy: 0.9736842105263158
+Total Time Taken: 0:00:07.062392
+
+
+ANN with Breast Cancer Dataset - ICA (6 independent components)
+
+Optimal Hidden Layers: [16, 16, 16, 16, 16, 16, 16]
+Training Accuracy: 0.9516483516483516
+Cross Validation Accuracy: 0.9538461538461539
+Testing Accuracy: 0.956140350877193
+Total Time Taken: 0:00:07.528122
+
+
+ANN with Breast Cancer Dataset - ICA (7 independent components)
+
+Optimal Hidden Layers: [16, 16]
+Training Accuracy: 0.9428571428571428
+Cross Validation Accuracy: 0.9362637362637364
+Testing Accuracy: 0.956140350877193
+Total Time Taken: 0:00:08.463754
+
+
+ANN with Breast Cancer Dataset - ICA (8 independent components)
+
+Optimal Hidden Layers: [16, 16, 16, 16, 16]
+Training Accuracy: 0.9582417582417583
+Cross Validation Accuracy: 0.9494505494505495
+Testing Accuracy: 0.9736842105263158
+Total Time Taken: 0:00:08.427410
+
+
+ANN with Breast Cancer Dataset - ICA (9 independent components)
+
+Optimal Hidden Layers: [16, 16]
+Training Accuracy: 0.9428571428571428
+Cross Validation Accuracy: 0.9494505494505495
+Testing Accuracy: 0.9649122807017544
+Total Time Taken: 0:00:08.846969
+
+
+ANN with Breast Cancer Dataset - ICA (10 independent components)
+
+Optimal Hidden Layers: [16]
+Training Accuracy: 0.8945054945054945
+Cross Validation Accuracy: 0.9362637362637363
+Testing Accuracy: 0.8596491228070176
+Total Time Taken: 0:00:08.824759
+
+
+ANN with Breast Cancer Dataset - ICA (11 independent components)
+
+Optimal Hidden Layers: [16]
+Training Accuracy: 0.8219780219780219
+Cross Validation Accuracy: 0.931868131868132
+Testing Accuracy: 0.7982456140350878
+Total Time Taken: 0:00:07.558118
+
+
+ANN with Breast Cancer Dataset - ICA (12 independent components)
+
+Optimal Hidden Layers: [16]
+Training Accuracy: 0.9318681318681319
+Cross Validation Accuracy: 0.9472527472527473
+Testing Accuracy: 0.9298245614035088
+Total Time Taken: 0:00:10.736513
+
+
+ANN with Breast Cancer Dataset - ICA (13 independent components)
+
+Optimal Hidden Layers: [16]
+Training Accuracy: 0.8483516483516483
+Cross Validation Accuracy: 0.920879120879121
+Testing Accuracy: 0.868421052631579
+Total Time Taken: 0:00:10.770979
+
+
+ANN with Breast Cancer Dataset - ICA (14 independent components)
+
+Optimal Hidden Layers: [16]
+Training Accuracy: 0.9076923076923077
+Cross Validation Accuracy: 0.942857142857143
+Testing Accuracy: 0.8771929824561403
+Total Time Taken: 0:00:10.105172
+
+
+ANN with Breast Cancer Dataset - ICA (15 independent components)
+
+Optimal Hidden Layers: [16, 16, 16]
+Training Accuracy: 0.9714285714285714
+Cross Validation Accuracy: 0.9560439560439561
+Testing Accuracy: 0.9824561403508771
+Total Time Taken: 0:00:10.964892
+
+
+ANN with Breast Cancer Dataset - ICA (16 independent components)
+
+Optimal Hidden Layers: [16, 16]
+Training Accuracy: 0.9758241758241758
+Cross Validation Accuracy: 0.967032967032967
+Testing Accuracy: 0.9649122807017544
+Total Time Taken: 0:00:10.903098
+
+
+ANN with Breast Cancer Dataset - ICA (17 independent components)
+
+Optimal Hidden Layers: [16, 16]
+Training Accuracy: 0.9714285714285714
+Cross Validation Accuracy: 0.9648351648351648
+Testing Accuracy: 1.0
+Total Time Taken: 0:00:09.673917
+
+
+ANN with Breast Cancer Dataset - ICA (18 independent components)
+
+Optimal Hidden Layers: [16, 16]
+Training Accuracy: 0.9714285714285714
+Cross Validation Accuracy: 0.9648351648351648
+Testing Accuracy: 0.9824561403508771
+Total Time Taken: 0:00:10.764116
+
+
+ANN with Breast Cancer Dataset - ICA (19 independent components)
+
+Optimal Hidden Layers: [16, 16, 16]
+Training Accuracy: 0.9846153846153847
+Cross Validation Accuracy: 0.9538461538461539
+Testing Accuracy: 0.9912280701754386
+Total Time Taken: 0:00:09.423358
+
+
+ANN with Breast Cancer Dataset - ICA (20 independent components)
+
+Optimal Hidden Layers: [16, 16]
+Training Accuracy: 0.967032967032967
+Cross Validation Accuracy: 0.9560439560439561
+Testing Accuracy: 0.9736842105263158
+Total Time Taken: 0:00:10.833648
+
+
+ANN with Breast Cancer Dataset - ICA (21 independent components)
+
+Optimal Hidden Layers: [16, 16]
+Training Accuracy: 0.9692307692307692
+Cross Validation Accuracy: 0.9582417582417583
+Testing Accuracy: 0.9824561403508771
+Total Time Taken: 0:00:09.540268
+
+
+ANN with Breast Cancer Dataset - ICA (22 independent components)
+
+Optimal Hidden Layers: [16, 16, 16, 16]
+Training Accuracy: 0.9868131868131869
+Cross Validation Accuracy: 0.9560439560439561
+Testing Accuracy: 0.9912280701754386
+Total Time Taken: 0:00:10.360263
+
+
+ANN with Breast Cancer Dataset - ICA (23 independent components)
+
+Optimal Hidden Layers: [16, 16, 16, 16, 16, 16, 16, 16]
+Training Accuracy: 0.9736263736263736
+Cross Validation Accuracy: 0.9494505494505495
+Testing Accuracy: 0.9473684210526315
+Total Time Taken: 0:00:09.762295
+
+
+ANN with Breast Cancer Dataset - ICA (24 independent components)
+
+Optimal Hidden Layers: [16, 16]
+Training Accuracy: 0.967032967032967
+Cross Validation Accuracy: 0.9538461538461539
+Testing Accuracy: 0.956140350877193
+Total Time Taken: 0:00:10.831261
+
+
+ANN with Breast Cancer Dataset - ICA (25 independent components)
+
+Optimal Hidden Layers: [16, 16, 16, 16, 16, 16, 16, 16]
+Training Accuracy: 0.9934065934065934
+Cross Validation Accuracy: 0.9406593406593408
+Testing Accuracy: 0.9736842105263158
+Total Time Taken: 0:00:11.445609
+
+
+ANN with Breast Cancer Dataset - ICA (26 independent components)
+
+Optimal Hidden Layers: [16, 16, 16, 16]
+Training Accuracy: 0.989010989010989
+Cross Validation Accuracy: 0.9406593406593408
+Testing Accuracy: 0.9824561403508771
+Total Time Taken: 0:00:10.100947
+
+
+ANN with Breast Cancer Dataset - ICA (27 independent components)
+
+Optimal Hidden Layers: [16, 16, 16, 16, 16, 16, 16]
+Training Accuracy: 0.9934065934065934
+Cross Validation Accuracy: 0.942857142857143
+Testing Accuracy: 0.9649122807017544
+Total Time Taken: 0:00:09.236516
+
+
+ANN with Breast Cancer Dataset - ICA (28 independent components)
+
+Optimal Hidden Layers: [16]
+Training Accuracy: 0.9230769230769231
+Cross Validation Accuracy: 0.9450549450549451
+Testing Accuracy: 0.9298245614035088
+Total Time Taken: 0:00:08.517422
+
+
+ANN with Breast Cancer Dataset - ICA (29 independent components)
+
+Optimal Hidden Layers: [16, 16, 16]
+Training Accuracy: 0.9846153846153847
+Cross Validation Accuracy: 0.9494505494505495
+Testing Accuracy: 0.9649122807017544
+Total Time Taken: 0:00:10.067424
+
+
